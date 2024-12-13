@@ -19,7 +19,7 @@ class FeedbackScreen extends StatelessWidget {
             TextField(
               decoration: InputDecoration(
                 border: OutlineInputBorder(),
-                labelText: 'Enter your feedback',
+                labelText: 'Enter your feedback...',
               ),
               maxLines: 4,
             ),
